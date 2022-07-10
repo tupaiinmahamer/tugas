@@ -1,0 +1,35 @@
+h1 {
+    color: orange;
+    font-family: Brush Script MT;
+    font-size: 50px;
+}
+h1 
+    .bg-kuning {
+     background-color: rgb(29, 29, 27);
+}
+h2 {
+    color: blue
+}
+h3{
+  color: rgb(138, 95, 16)
+}
+
+  /* Selector Class */
+  .container {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+  }
+   .h1 {
+    color: orange;
+    background-color: yellow;
+  }
+  .h1 {
+  font-family: Brush Script MT;
+  }
+  /* Selector id */
+  body {
+    fill-rule:"home.html";
+    background-color: rgb(216, 216, 205);
+  }
+  
